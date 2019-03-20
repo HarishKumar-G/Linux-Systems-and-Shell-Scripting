@@ -1,2 +1,2 @@
 # Linux-Systems-and-Shell-Scripting
-Contains small Bash scripts and Projects
+Contains beginner Bash scripts and Projects
