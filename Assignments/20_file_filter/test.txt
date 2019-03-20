@@ -1,0 +1,10 @@
+
+
+-------------------------------------------------------------------------
+
+This is a file generated to test the cut command.
+This cut command prints the specific lines as mentioned in the command.
+
+-------------------------------------------------------------------------
+
+
